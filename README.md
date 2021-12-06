@@ -20,3 +20,8 @@ http://localhost:8081
 http://localhost:8081
 
 ----------------------------------------------------------------------
+//Step 1: 
+npm install
+
+//Step 2:
+npm start
